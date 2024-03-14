@@ -1,0 +1,143 @@
+# Utsav Anantbhat
+# 301446421
+# CMPT353 - E5
+
+Dataset 1:
+
+Mean:
+x: 8.71769618641382
+y: 12.522874034702584
+
+
+Standard Deviation:
+x: 12.15551723122202
+y: 6.63996400756785
+
+
+Range:
+x: min = (-22.635877790008944), max = (35.23705548785129)
+y: min = (-2.565087832693213), max = (27.38415261152477)
+
+
+Correlation Coefficient (r): 0.9503256954375487
+
+Description: A positive linear trend.
+
+===============================================================
+
+
+Dataset 2:
+
+Mean:
+x: -0.7107871267159572
+y: -0.7489869764497991
+
+
+Standard Deviation:
+x: 11.481583587790734
+y: 6.257917998755848
+
+
+Range:
+x: min = (-33.2711130771198), max = (27.6470003722073)
+y: min = (-18.621803760419063), max = (14.14731499231748)
+
+
+Correlation Coefficient (r): 0.9551531665750375
+
+Description: Also a positive linear trend like Dataset 1, but with some noticeable outliers such as (-35, -18) and 4 data points clustered towards the positive end of the plotted graph.
+
+===============================================================
+
+
+Dataset 3:
+
+Mean:
+x: 0.9689074904200939
+y: 8.508535236641327
+
+
+Standard Deviation:
+x: 2.235557861057969
+y: 1.1493008110024525
+
+
+Range:
+x: min = (-2.4490643296742807), max = (4.51888491755363)
+y: min = (6.641734490391763), max = (10.551871022804317)
+
+
+Correlation Coefficient (r): 0.9819372646760659
+
+Description: Clustered data every 2 x units from -2 to 4 with y spread being 1 unit; y is continuous and increments every cluster by 1-2 units.
+
+===============================================================
+
+Dataset 4:
+
+Mean:
+x: 49.90508614830509
+y: 18.553836525423726
+
+
+Standard Deviation:
+x: 28.50861051988193
+y: 16.545896442941682
+
+
+Range:
+x: min = (0.0), max = (87.3767)
+y: min = (0.0), max = (44.56504)
+
+
+Correlation Coefficient (r): -0.08119306735490812
+
+Description: Data when plotted generates the SFU logo.
+
+===============================================================
+
+Dataset 5:
+
+Mean:
+x: 49.90999357843095
+y: 18.555524937729086
+
+
+Standard Deviation:
+x: 28.500000943801354
+y: 16.540796301840782
+
+
+Range:
+x: min = (4.337892453674525), max = (91.0528633396976)
+y: min = (0.0554975075811517), max = (49.93419703633311)
+
+
+Correlation Coefficient (r): -0.08823598983058888
+
+Description: The x,y coordinates generate columns every 10 x increments with some outliers.
+
+===============================================================
+
+Dataset 6:
+
+Mean:
+x: 7.21615517960992
+y: 7.602215028237295
+
+
+Standard Deviation:
+x: 11.921599067458311
+y: 11.764382455006647
+
+
+Range:
+x: min = (-24.33382075234097), max = (35.402138910929)
+y: min = (-22.9563569970746), max = (36.07987403078143)
+
+
+Correlation Coefficient (r): 0.9350685662094913
+
+Description: A strong positive linear trend with 2 outliers: ~(22, -4), ~(25, -3)
+
+===============================================================
